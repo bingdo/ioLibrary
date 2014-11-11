@@ -6,7 +6,7 @@ The driver (ioLibrary) can be used for W5500 application designs. These will be 
 This driver provides the Berkeley Socket type APIs.
 - Directory Structure
 <!-- ioLibrary pic -->
-![ioLibrary](http://wiki/lib/exe/fetch.php?media=products:w5500:iolibrary_bsd.jpg "ioLibrary")
+![ioLibrary](http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:iolibrary_bsd.jpg "ioLibrary")
 
 - Ethernet : SOCKET APIs like BSD & WIZCHIP(W5500,W5200 and etc) Driver
 - Internet :
